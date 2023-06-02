@@ -1,3 +1,3 @@
 # first
 My fist repository\
-![cat](https://i.ibb.co/zH1BX0T/pngwing-com.png)
+![cat](https://i.postimg.cc/SRcyp9CS/pngwing-com.png)
