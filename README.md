@@ -1,3 +1,3 @@
 # first
-My fist repository\
+My first repository\
 ![cat](https://i.postimg.cc/fRn8L9X4/pngwing-com-1.png)
